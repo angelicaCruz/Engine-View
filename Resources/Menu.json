@@ -1,0 +1,90 @@
+{
+  "name": "Menu",
+  "rootPanel": {
+    "buttons": [
+      {
+        "buttonId": "button2",
+        "buttonName": "Delete Lines",
+        "buttonColor": {
+          "r": 0.9705882,
+          "g": 0.392517328,
+          "b": 0.452317536,
+          "a": 1.0
+        },
+        "buttonPic": "icon_remove",
+        "canClick": true,
+        "subPanel": null
+      },
+      {
+        "buttonId": "button1",
+        "buttonName": "Show/Hide Lines",
+        "buttonColor": {
+          "r": 0.0117647061,
+          "g": 0.6627451,
+          "b": 0.956862748,
+          "a": 1.0
+        },
+        "buttonPic": "eyes",
+        "canClick": true,
+        "subPanel": {
+          "buttons": [
+            {
+              "buttonId": "button1.b",
+              "buttonName": "Hide Lines",
+              "buttonColor": {
+                "r": 0.0117647061,
+                "g": 0.6627451,
+                "b": 0.956862748,
+                "a": 1.0
+              },
+              "buttonPic": "eye",
+              "canClick": true,
+              "subPanel": null
+            },
+            {
+              "buttonId": "button1.a",
+              "buttonName": "Show Lines",
+              "buttonColor": {
+                "r": 0.0117647061,
+                "g": 0.6627451,
+                "b": 0.956862748,
+                "a": 1.0
+              },
+              "buttonPic": "icon_eye",
+              "canClick": true,
+              "subPanel": null
+            },
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "buttonId": "button3",
+        "buttonName": "Load Lines",
+        "buttonColor": {
+          "r": 0.0117647061,
+          "g": 0.6627451,
+          "b": 0.956862748,
+          "a": 1.0
+        },
+        "buttonPic": "icon_load",
+        "canClick": true,
+        "subPanel": null
+      },
+      {
+        "buttonId": "button4",
+        "buttonName": "Save Lines",
+        "buttonColor": {
+          "r": 0.29844287,
+          "g": 0.8455882,
+          "b": 0.5286212,
+          "a": 1.0
+        },
+        "buttonPic": "icon_add",
+        "canClick": true,
+        "subPanel": null
+      }
+    ]
+  }
+}
