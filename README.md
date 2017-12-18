@@ -20,6 +20,7 @@ UI and Block Menu Button
 **Note:**
 - Before getting started, download [**METookit**](https://github.com/DataMesh-OpenSource/METoolkit "METoolkit Source"). 
 - This project is created with the older version on METool kit, so make sure you're not using the METool kit 2017 version. 
+- This folder is not a Unity project so you have to create an empty Unity project and then drag and drop all the elements above your project.
 
 If you want to know more, visit [**DataMesh**](https://www.datamesh.com/ "DataMesh website").
 
